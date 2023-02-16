@@ -1,3 +1,10 @@
+#Food Corner 
+
+The program displays different shops the user can click on to get their desired food such as cafe, fast food shop, ice cream shop.
+Once the user chooses their desired food shop the program displays the food item the shop has with the prices and prompts the user to place their order. 
+Once the user presses the button to get the bill, the program takes user to the bill page and prompts the user to pay the bill. 
+If the user pays less or extra than the required payment, the program displays the remaining or extra money. 
+
 # p5.js
 
 This is the Template Repl for p5.js.
